@@ -8,4 +8,4 @@ labael_image:
 This is a mini project on image recognition for movies using Tensorflow API provided by Google.
 
 milk:
-This is DBMS mini project on Milk supply database management system.
+This is a DBMS mini project on Milk supply database management system.
